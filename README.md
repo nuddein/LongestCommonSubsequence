@@ -1,4 +1,4 @@
-# LongestCommonSubsequence
+# LongestCommonSubsequence (Dynamic Programming)
 LongestCommonSubsequence 
 
 
